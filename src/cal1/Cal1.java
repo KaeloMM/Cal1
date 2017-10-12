@@ -10,8 +10,8 @@ package cal1;
  * @author Student
  */
 public class Cal1 {
-    public int Add(String s, String S2){
-    int d1 = Integer.parseInt(s);
+    public int Add(String S1, String S2){
+    int d1 = Integer.parseInt(S1);
     int d2=  Integer.parseInt(S2);
 return d1+d2;}
     /**
