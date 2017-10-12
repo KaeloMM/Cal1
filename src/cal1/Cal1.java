@@ -10,8 +10,10 @@ package cal1;
  * @author Student
  */
 public class Cal1 {
-    public int Add(String s, String s2){return 0;}
-
+    public int Add(String s, String S2){
+    int d1 = Integer.parseInt(s);
+    int d2=  Integer.parseInt(S2);
+return d1+d2;}
     /**
      * @param args the command line arguments
      */
